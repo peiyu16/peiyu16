@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pei Yu
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning robotic & mechatronic engineering and conputer science in software development 
+- 🌱 I’m currently studying robotic & mechatronic engineering and computer science in software development 
 - 📫 How to reach me: wpeiyu0116@gmail.com
 
 <!---
